@@ -10,6 +10,7 @@ dephash_strategy: strict
 basepkgs: [base-devel, aarch64-linux-gnu-gcc]
 arch: aarch64
 pkgbuilds:
+  Vexiona-keyring: GH/Vexiona/
   # 7ji-keyring: GH/7Ji-PKGBUILDs/
   # ampart: AUR
   # ampart-git: AUR
