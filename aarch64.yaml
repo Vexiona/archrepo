@@ -31,7 +31,7 @@ pkgbuilds:
 # linux-aarch64-mainline-git: GH/7Ji-PKGBUILDs/
   linux-aarch64-orangepi5: GH/Vexiona/
   linux-aarch64-armbian-orangepi5-plus: GH/Vexiona/
-  # linux-aarch64-orangepi5: GH/Vexiona/
+  linux-aarch64-orangepi5: GH/Vexiona/
   # linux-aarch64-orangepi5-git: GH/7Ji-PKGBUILDs/
   # linux-firmware-amlogic-ophub-git: GH/7Ji-PKGBUILDs/
   linux-firmware-orangepi-git: GH/7Ji-PKGBUILDs/
