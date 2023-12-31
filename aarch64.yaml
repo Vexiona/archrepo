@@ -11,7 +11,6 @@ basepkgs: [base-devel, aarch64-linux-gnu-gcc]
 arch: aarch64
 pkgbuilds:
   Vexiona-keyring: GH/Vexiona/
-  # 7ji-keyring: GH/7Ji-PKGBUILDs/
   # ampart: AUR
   # ampart-git: AUR
   # chromium-mpp: GH/7Ji-PKGBUILDs/
@@ -31,9 +30,7 @@ pkgbuilds:
 # linux-aarch64-mainline: GH/7Ji-PKGBUILDs/
 # linux-aarch64-mainline-git: GH/7Ji-PKGBUILDs/
   linux-aarch64-orangepi5: GH/Vexiona/
-  linux-rockchip:
-      url: GH/Vexiona/linux-aarch64-armbian-rockchip
-      branch: main
+  linux-aarch64-armbian-orangepi5-plus: GH/Vexiona/
   # linux-aarch64-orangepi5: GH/Vexiona/
   # linux-aarch64-orangepi5-git: GH/7Ji-PKGBUILDs/
   # linux-firmware-amlogic-ophub-git: GH/7Ji-PKGBUILDs/
@@ -48,7 +45,7 @@ pkgbuilds:
   # qbittorrent-enhanced-nox-git: AUR
   # uboot-amlogic-ophub: GH/7Ji-PKGBUILDs/
   # uboot-legacy-initrd-hooks: GH/7Ji-PKGBUILDs/
-  # usb2host: AUR
+  usb2host: AUR
   # usbrelay: AUR
   # v4l-utils-mpp: GH/7Ji-PKGBUILDs/
   # xray-nogeo: GH/7Ji-PKGBUILDs/
