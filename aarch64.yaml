@@ -9,6 +9,7 @@ sign: 3F8EA994630DC32198C98AF4125FEFD034D886E6
 dephash_strategy: strict
 basepkgs: [base-devel, aarch64-linux-gnu-gcc]
 arch: aarch64
+tag: aarch64
 pkgbuilds:
   Vexiona-keyring: GH/Vexiona/
   # ampart: AUR
@@ -31,7 +32,6 @@ pkgbuilds:
 # linux-aarch64-mainline-git: GH/7Ji-PKGBUILDs/
   linux-aarch64-orangepi5: GH/Vexiona/
   linux-aarch64-armbian-orangepi5-plus: GH/Vexiona/
-  linux-aarch64-orangepi5: GH/Vexiona/
   # linux-aarch64-orangepi5-git: GH/7Ji-PKGBUILDs/
   # linux-firmware-amlogic-ophub-git: GH/7Ji-PKGBUILDs/
   linux-firmware-orangepi-git: GH/7Ji-PKGBUILDs/
