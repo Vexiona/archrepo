@@ -4,6 +4,9 @@ basepkgs: [base-devel, aarch64-linux-gnu-gcc]
 arch: aarch64
 tag: aarch64-testing
 pkgbuilds:
-  linux-aarch64-armbian-orangepi5-plus-testing:
-    url: https://github.com/Vexiona/linux-aarch64-armbian-orangepi5-plus.git
+  linux-aarch64-5.10-armbian-orangepi5-plus-testing:
+    url: https://github.com/Vexiona/linux-aarch64-5.10-armbian-orangepi5-plus.git
+    branch: testing
+  linux-aarch64-6.1-rockchip-rk3588-joshua-git-testing:
+    url: https://github.com/Vexiona/linux-aarch64-6.1-rockchip-rk3588-joshua-git.git
     branch: testing
